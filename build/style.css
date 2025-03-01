@@ -2423,6 +2423,13 @@
       justify-content: flex-end;
     }
   }
+  .md\:md\:justify-between {
+    @media (width >= 48rem) {
+      @media (width >= 48rem) {
+        justify-content: space-between;
+      }
+    }
+  }
   .md\:gap-1 {
     @media (width >= 48rem) {
       gap: calc(var(--spacing) * 1);
