@@ -8,5 +8,6 @@
     --color-brightcyan: #2bb7da;
     --color-grayishblue: #9698a6;
     --color-lightgrayishblue: #f3f4f6;
-    --color-verylightgray: #fafafa
+    --color-verylightgray: #fafafa;
+    --text-tiny: 0.625rem;
 }
